@@ -1,0 +1,13 @@
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\ConsoleApp523.exe
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\obj\Debug\netcoreapp3.1\ConsoleApp523.csprojAssemblyReference.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\obj\Debug\netcoreapp3.1\ConsoleApp523.AssemblyInfoInputs.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\obj\Debug\netcoreapp3.1\ConsoleApp523.AssemblyInfo.cs
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\ConsoleApp523.deps.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\ConsoleApp523.runtimeconfig.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\ConsoleApp523.runtimeconfig.dev.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\ConsoleApp523.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\ConsoleApp523.pdb
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\obj\Debug\netcoreapp3.1\ConsoleApp523.csproj.CopyComplete
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\obj\Debug\netcoreapp3.1\ConsoleApp523.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp523\ConsoleApp523\obj\Debug\netcoreapp3.1\ConsoleApp523.pdb
